@@ -1,3 +1,5 @@
+# Update: Chuck Bienenfeld
+# Date: June 5, 2023 - 9:57am
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
